@@ -83,3 +83,9 @@ This is a pseudo minimalist preset inspired by the [geometry](https://github.com
 This preset is a minimally modified version of [Gruvbox Rainbow](./gruvbox-rainbow.md) using the [Catppuccin](https://github.com/catppuccin/catppuccin) theme palette.
 
 [![Screenshot of Catppuccin Powerline preset](/presets/img/catppuccin-powerline.png "Click to view Catppuccin Powerline preset")](./catppuccin-powerline)
+
+## [My Preset](./my-preset.md)
+
+This preset features mysetting in tokyo-night (inspired by [tokyo-night-vscode-theme](https://github.com/enkia/tokyo-night-vscode-theme).) 
+
+[![Screenshot of My Preset preset](/presets/img/my-preset.png "Click to view My Preset preset")](./my-preset)
