@@ -86,6 +86,6 @@ This preset is a minimally modified version of [Gruvbox Rainbow](./gruvbox-rainb
 
 ## [My Preset](./my-preset.md)
 
-This preset features mysetting in tokyo-night (inspired by [tokyo-night-vscode-theme](https://github.com/enkia/tokyo-night-vscode-theme).) 
+This preset added my own Some modifications to [Tokyo Night](./tokyo-night.md) 
 
 [![Screenshot of My Preset preset](/presets/img/my-preset.png "Click to view My Preset preset")](./my-preset)
